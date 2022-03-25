@@ -1,0 +1,16 @@
+C:\Users\Qasimov\source\repos\3reqemli\3reqemli\bin\Debug\net5.0\3reqemli.exe
+C:\Users\Qasimov\source\repos\3reqemli\3reqemli\bin\Debug\net5.0\3reqemli.deps.json
+C:\Users\Qasimov\source\repos\3reqemli\3reqemli\bin\Debug\net5.0\3reqemli.runtimeconfig.json
+C:\Users\Qasimov\source\repos\3reqemli\3reqemli\bin\Debug\net5.0\3reqemli.runtimeconfig.dev.json
+C:\Users\Qasimov\source\repos\3reqemli\3reqemli\bin\Debug\net5.0\3reqemli.dll
+C:\Users\Qasimov\source\repos\3reqemli\3reqemli\bin\Debug\net5.0\ref\3reqemli.dll
+C:\Users\Qasimov\source\repos\3reqemli\3reqemli\bin\Debug\net5.0\3reqemli.pdb
+C:\Users\Qasimov\source\repos\3reqemli\3reqemli\obj\Debug\net5.0\3reqemli.csproj.AssemblyReference.cache
+C:\Users\Qasimov\source\repos\3reqemli\3reqemli\obj\Debug\net5.0\3reqemli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qasimov\source\repos\3reqemli\3reqemli\obj\Debug\net5.0\3reqemli.AssemblyInfoInputs.cache
+C:\Users\Qasimov\source\repos\3reqemli\3reqemli\obj\Debug\net5.0\3reqemli.AssemblyInfo.cs
+C:\Users\Qasimov\source\repos\3reqemli\3reqemli\obj\Debug\net5.0\3reqemli.csproj.CoreCompileInputs.cache
+C:\Users\Qasimov\source\repos\3reqemli\3reqemli\obj\Debug\net5.0\3reqemli.dll
+C:\Users\Qasimov\source\repos\3reqemli\3reqemli\obj\Debug\net5.0\ref\3reqemli.dll
+C:\Users\Qasimov\source\repos\3reqemli\3reqemli\obj\Debug\net5.0\3reqemli.pdb
+C:\Users\Qasimov\source\repos\3reqemli\3reqemli\obj\Debug\net5.0\3reqemli.genruntimeconfig.cache
